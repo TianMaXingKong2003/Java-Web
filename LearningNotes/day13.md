@@ -44,7 +44,6 @@
 
 	* JavaEE：Java语言在企业级开发中使用的技术规范的总和，一共规定了13项大的规范
 
-<image src="https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/images/tomcat%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png">
 
 	* Tomcat：web服务器软件
 		1. 下载：http://tomcat.apache.org/
