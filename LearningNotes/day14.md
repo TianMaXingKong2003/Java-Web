@@ -1,5 +1,5 @@
 # day14今日内容：
-	1. Servlet
+	1. Servlet体系结构
 	2. HTTP协议
 	3. Request
 
