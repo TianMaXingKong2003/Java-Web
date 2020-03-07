@@ -6,7 +6,7 @@
 	3. Servlet入门学习
 	
 ## day14内容：
-	1. Servlet
+	1. Servlet体系结构
 	2. HTTP协议
 	3. Request
 
