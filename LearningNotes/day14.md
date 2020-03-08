@@ -127,7 +127,7 @@
 						* StringBuffer getRequestURL()  :http://localhost/day14/demo1
 
 						* URL:统一资源定位符 ： http://localhost/day14/demo1	中华人民共和国
-						* URI：统一资源标识符 : /day14/demo1					共和国
+						* URI：统一资源标识符 : /day14/demo1				共和国
 					
 					6. 获取协议及版本：HTTP/1.1
 						* String getProtocol()
