@@ -1,8 +1,12 @@
 # 学习笔记
 
 ## [day7内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day7.md)
+	1. web概念概述
+	2. HTML
 
-## [day8内容]()
+## [day8内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day8.md)
+	1. HTML标签：表单标签
+	2. CSS：
 
 ## [day9内容]()
 
