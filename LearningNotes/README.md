@@ -8,9 +8,14 @@
 	1. HTML标签：表单标签
 	2. CSS：
 
-## [day9内容]()
+## [day9内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day9.md)
+	1. JavaScript基础
 
-## [day10内容]()
+## [day10内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day10.md)
+	1. JavaScript高级：
+		1. ECMAScript：
+		2. BOM：
+		3. DOM：
 
 ## [day11内容]()
 
