@@ -1,5 +1,9 @@
 # 学习笔记
 
+## [day6内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day6.md)
+	1. 数据库连接池
+	2. Spring JDBC : JDBC Template
+
 ## [day7内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day7.md)
 	1. web概念概述
 	2. HTML
@@ -47,7 +51,6 @@
 		1. 指令
 		2. 注释
 		3. 内置对象
-
 	2. MVC开发模式
 	3. EL表达式
 	4. JSTL标签
