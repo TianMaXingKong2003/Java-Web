@@ -30,4 +30,26 @@
 	1. Servlet体系结构
 	2. HTTP协议
 	3. Request
+	
+## [day15内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day15.md)
+	1. HTTP协议：响应消息
+	2. Response对象
+	3. ServletContext对象
+
+## [day16内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day16.md)
+	1. 会话技术
+		1. Cookie
+		2. Session
+	2. JSP：入门学习
+
+## [day17内容](https://github.com/TianMaXingKong2003/Java-Web/blob/master/LearningNotes/day17.md)
+	1. JSP:
+		1. 指令
+		2. 注释
+		3. 内置对象
+
+	2. MVC开发模式
+	3. EL表达式
+	4. JSTL标签
+	5. 三层架构
 
