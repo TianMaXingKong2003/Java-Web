@@ -451,6 +451,7 @@
 
 		9. BeanUtils工具类，简化数据封装
 			* 用于封装JavaBean的
+                        * 导入jar包 commons-beanutils-1.8.0.jar
 			1. JavaBean：标准的Java类
 				1. 要求：
 					1. 类必须被public修饰
